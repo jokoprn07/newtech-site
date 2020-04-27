@@ -1,7 +1,7 @@
 <?php
 
     $emailCpanel = "email on cpanel";
-    $myPersonalEmail = "newtech290320@gmail.com";
+    $myPersonalEmail = "your personal email";
     
     if( isset($_POST['submit']) ) {
         $subject = htmlspecialchars($_POST['subject']);
