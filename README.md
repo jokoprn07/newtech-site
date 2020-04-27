@@ -6,3 +6,8 @@ Semoga Suka dan Berkenan membaca artikel ataupun Konten yang kami sediakan. Teri
 Saya mengembangkan website ini menggunakan Framework Bootstrap 3, Javascript dan juga menggunakan PHP untuk bagian contact formnya.
 
 Website ini dibuat untuk mengenalkan NewTech kepada masyrakat umum.  
+
+
+Our Blog :
+
+http://www.newtech.cf/
