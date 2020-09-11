@@ -15,4 +15,4 @@ Website ini bersifat Statis dan proses pengerjaan website ini adalah 7 Hari
 
 Our Blog :
 
-http://www.newtech.cf/
+http://www.newtech.my.id/
